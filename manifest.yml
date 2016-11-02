@@ -1,0 +1,4 @@
+applications:
+- name: myHelloWorld
+  memory: 128M
+  host: myHelloWorld
